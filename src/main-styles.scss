@@ -1,0 +1,16 @@
+// global styles and changing bulm variables
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&family=Nunito:wght@400;700&display=swap');
+
+$family-sans-serif: "Nunito", sans-serif;
+
+$control-border-width: 2px;
+$input-border-control: transparent;
+$input-shadow: none;
+
+// global
+
+html, body{
+    height: 100%;
+    background-color: #13f7f4;
+}
