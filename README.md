@@ -1,4 +1,4 @@
-# ProjectManager
+# Activity/Project Manager
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.0.
 
@@ -25,3 +25,7 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+### Optional regarding tasks
+
+Add whatever tasks you want via `/src/app/pages/main-view/main-view.component.ts`. Create personal columns and add personal tasks.
